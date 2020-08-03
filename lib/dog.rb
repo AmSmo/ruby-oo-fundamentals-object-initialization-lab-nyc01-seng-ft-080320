@@ -1,3 +1,3 @@
 class Dog
-  Dog
+  Dog do
 end
